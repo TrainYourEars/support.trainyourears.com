@@ -1,0 +1,26 @@
+{
+  "name": "support.trainyourears.com",
+  "version": "1.0.0",
+  "description": "Support site for TrainYourEars",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-theme-faq": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrainYourEars/support.trainyourears.com.git"
+  },
+  "keywords": [],
+  "author": "Luis Herranz <luisherranz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrainYourEars/support.trainyourears.com/issues"
+  },
+  "homepage": "https://github.com/TrainYourEars/support.trainyourears.com#readme"
+}
