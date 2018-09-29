@@ -1,5 +1,3 @@
-# I've paid, but I didn't receive an email
-
 After the purchase, you should receive an email with your Download Links and License Key. It usually takes less than 5 minutes, although it may take longer.
 
 If the email is not there after a while, check your spam/updates/promotions folder.

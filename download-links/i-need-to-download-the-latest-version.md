@@ -1,5 +1,3 @@
-# I need to download the latest version
-
 You can use this page to get your Download Links and License Key:
 
 [- Download Links and License Key](https://admin.trainyourears.com/download)

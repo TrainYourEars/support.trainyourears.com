@@ -1,5 +1,3 @@
-# I need an invoice
-
 If you need an invoice or a payment receipt from TrainYourEars, please visit this page:
 
 * [Genarate your invoice](https://admin.trainyourears.com/invoice)

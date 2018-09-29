@@ -1,5 +1,3 @@
-# Is there a demo available?
-
 Unfortunately, we don't have a demo version right now. But you can always check out our [videos](https://www.youtube.com/user/TrainYourEars) and [screenshots](https://www.trainyourears.com/#screenshots). These are some of them:
 
 **Live Training Videos**

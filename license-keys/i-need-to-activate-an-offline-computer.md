@@ -1,5 +1,3 @@
-# I need to activate an offline computer
-
 * Install the software on that computer, enter your **License Key** and click on the **Offline** button:
 
 ![](../.gitbook/assets/screen-shot-2018-02-27-at-20.30.15.png)

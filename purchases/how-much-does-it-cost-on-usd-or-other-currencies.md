@@ -1,5 +1,3 @@
-# How much does it cost on USD \(or other currencies\)?
-
 The price in USD \(or other currencies\) depends on the daily USD-EUR ratio.
 
 You can see the price in USD and other currencies on the [checkout page](https://www.trainyourears.com/add-trainyourears-to-cart). You will find the currency buttons just after the billing details \(see image below\). Click on "USD" or on any other currency to see the price.![](../.gitbook/assets/currency-buttons.png)

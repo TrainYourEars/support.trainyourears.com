@@ -1,5 +1,3 @@
-# XCHANGE - Download links & activation
-
 Your **Download Links** for TrainYourEars EQ Edition 2 \(Personal Use License\) are:
 
 * [Download TrainYourEars EQ Edition 2 - Mac OSX](https://www.trainyourears.com/download-xchange.php?os=Mac)
