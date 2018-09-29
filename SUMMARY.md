@@ -24,11 +24,11 @@
 * [Do you offer any sort of student discount?](purchases/do-you-offer-any-sort-of-student-discount.md)
 
 ## EXERCISES
-* [I deleted the default exercises by mistake, how can I get them back?](exercises/i-deleted-the-default-exercises-by-mistake-how-can-i-get-them-back.md)
+* [I deleted the default exercises by mistake, how can I get them back?](exercises/i-deleted-the-default-exercises-by-mistake.md)
 * [Where are the exercise packages?](exercises/where-are-the-exercise-packages.md)
 
 ## TROUBLESHOOTING
-* [I have upgraded to Sierra\/HighSierra and TYE has stopped working](troubleshooting/i-have-upgraded-to-sierrahighsierra-and-tye-has-stopped-working.md)
+* [I have upgraded to Sierra\/HighSierra and TYE has stopped working](troubleshooting/i-have-upgraded-to-sierrahighsierra.md)
 * [TrainYourEars doesn't open](troubleshooting/trainyourears-is-not-working.md)
 * [There is no sound on the training](troubleshooting/when-i-go-to-the-training-i-hear-no-sound.md)
 
