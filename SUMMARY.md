@@ -1,9 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-
 ## FREQUENTLY ASKED QUESTIONS
-* [Introduction](frequently-asked-questions/readme.md)
 * [Can I use the software on two or more computers?](frequently-asked-questions/can-i-use-the-software-on-two-computers.md)
 * [Is there a demo available?](frequently-asked-questions/is-there-a-demo-available.md)
 * [Is there a mobile version available?](frequently-asked-questions/is-there-a-mobile-version-available.md)
