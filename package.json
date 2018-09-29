@@ -9,6 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "gitbook serve --no-live",
     "serve": "gitbook serve",
     "build": "gitbook build"
   },
