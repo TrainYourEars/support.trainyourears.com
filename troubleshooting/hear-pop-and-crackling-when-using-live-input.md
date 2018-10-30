@@ -1,0 +1,1 @@
+Please try switching to try with `ad_portaudio` drivers. They usually work better than `Core Audio` with SoundFlower.

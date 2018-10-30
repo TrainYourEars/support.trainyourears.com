@@ -31,6 +31,7 @@
 * [I have upgraded to HighSierra and TYE has stopped working](troubleshooting/i-have-upgraded-to-sierrahighsierra.md)
 * [TrainYourEars doesn't open](troubleshooting/trainyourears-is-not-working.md)
 * [There is no sound on the training](troubleshooting/when-i-go-to-the-training-i-hear-no-sound.md)
+* [I hear pops and crackling when using Live Input](troubleshooting/hear-pop-and-crackling-when-using-live-input.md)
 
 ## XCHANGE
 * [XCHANGE - Download links & activation](xchange/download-links-and-activation.md)
