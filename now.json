@@ -1,5 +1,4 @@
 {
-  "type": "static",
-  "public": true,
-  "alias": "support.trainyourears.com"
+  "version": 2,
+  "public": true
 }
