@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "gitbook serve --no-live",
-    "serve": "gitbook serve",
+    "no-live": "gitbook serve --no-live",
     "build": "gitbook build"
   },
   "repository": {
