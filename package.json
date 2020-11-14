@@ -4,8 +4,8 @@
   "description": "Support site for TrainYourEars",
   "main": "index.js",
   "dependencies": {
-    "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-theme-faq": "^1.2.1"
+    "gitbook-cli": "2.3.2",
+    "gitbook-plugin-theme-faq": "1.2.1"
   },
   "devDependencies": {},
   "scripts": {
