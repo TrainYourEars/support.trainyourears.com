@@ -5,13 +5,14 @@
   "main": "index.js",
   "dependencies": {
     "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-theme-faq": "^1.2.1"
+    "gitbook-plugin-theme-faq": "^1.2.1",
+    "patch-package": "^6.4.7"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "gitbook serve --no-live",
     "no-live": "gitbook serve --no-live",
-    "build": "gitbook build"
+    "build": "gitbook build",
+    "postinstall": "patch-package"
   },
   "repository": {
     "type": "git",
