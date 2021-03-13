@@ -26,6 +26,7 @@
 - [I need an invoice](purchases/i-need-an-invoice.md)
 - [I've paid, but I didn't receive an email](purchases/ive-paid-but-i-didnt-receive-an-email.md)
 - [Do you offer any sort of student discount?](purchases/do-you-offer-any-sort-of-student-discount.md)
+- [Can I purchase TrainYourEars as a gift?](purchases/purchase-as-a-gift.md)
 
 ## EXERCISES
 
